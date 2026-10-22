@@ -1,2 +1,2 @@
-# sandip-keygen-updates
-SANDIP KEYGEN Update Management
+# SANDIP-KEYGEN
+SANDIP KEYGEN is an key extracter application 
