@@ -1,2 +1,2 @@
 # SANDIP-KEYGEN
-SANDIP KEYGEN is an key extracter application 
+🔑 A streamlined authentication key retrieval utility for Aincrad Client | Developed by SANDIP MOD'S 🚀
