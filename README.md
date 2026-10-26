@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.5-00e5ff?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v1.0.6-00e5ff?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Android_5.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/Target_SDK-34-black?style=for-the-badge" alt="Target SDK">
   <img src="https://img.shields.io/badge/Architecture-ARM64--v8a-ff0055?style=for-the-badge" alt="Architecture">
