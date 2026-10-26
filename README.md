@@ -6,7 +6,8 @@
 
 
 <p align="center">
-  <b>High-Performance Key Management Portal & Cloud-Synchronized Android Application</b>
+  <b>High-performance Android key retrieval tool for Aincrad Client with real-time cloud sync, AMOLED UI, and native security.
+</b>
 </p>
 
 <p align="center">
@@ -21,7 +22,8 @@
 
 ## 📖 Overview
 
-🔑 **SANDIP KEYGEN** — A streamlined key retrieval utility for the Aincrad Client, developed by [@AincradMods](https://t.me/AincradMods).
+🔑 **SANDIP KEYGEN** — High-performance Android key retrieval tool for Aincrad Client with real-time cloud sync, AMOLED UI, and native security.
+, developed by [@AincradMods](https://t.me/AincradMods).
 
 * 🌐 **Key Generation Portal**: [https://aincradmods.com/getkey](https://aincradmods.com/getkey)
 * ⚙️ **Core Functionality**: Simplifies the process of retrieving authentication keys required to access the Aincrad Client.
