@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Android_5.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/Target_SDK-34-black?style=for-the-badge" alt="Target SDK">
   <img src="https://img.shields.io/badge/Architecture-ARM64--v8a-ff0055?style=for-the-badge" alt="Architecture">
-  <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Build Status">
+
 </p>
 
 ---
