@@ -6,4 +6,4 @@
   "maintenance": true,
   "maintenanceTitle": "App Under Maintenance",
   "maintenanceMessage": "We are performing maintenance. Please try again later.",
-  "maintenanceRetryAfter": "35 minutes"
+  "maintenanceRetryAfter": "30 minutes"
