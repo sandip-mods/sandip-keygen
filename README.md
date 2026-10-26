@@ -65,7 +65,6 @@ Built with a deeply optimized native layer, hardware-accelerated haptics, and a 
 ## 👤 Developer & Credits
 
 - **Developer & Maintainer**: **SANDIP MOD'S**
-- **Client / Development Partner**: [@AincradMods](https://t.me/AincradMods)
 - **Key Generation Portal**: [https://aincradmods.com/getkey](https://aincradmods.com/getkey)
 - **Telegram Channel**: [@sandipmods](https://t.me/whoes_mee)
 - **GitHub Repository**: [sandip-keygen-updates](https://github.com/sandipff2000-byte/sandip-keygen-updates)
