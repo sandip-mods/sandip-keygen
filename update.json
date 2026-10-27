@@ -3,7 +3,7 @@
   "apkUrl": "https://github.com/sandipff2000-byte/sandip-keygen/releases/download/v.1.0.6/SANDIP.KEYGEN.v1.0.6.apk",
   "forceUpdate": false,
   "releaseNotes": "Bug fixes and performance improvements",
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceTitle": "App Under Maintenance",
   "maintenanceMessage": "We are performing maintenance. Please try again later.",
   "maintenanceRetryAfter": "35 minute"
