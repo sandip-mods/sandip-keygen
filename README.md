@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.7-00e5ff?style=for-the-badge" alt="Version">
+  <a href="https://github.com/sandip-mods/sandip-keygen/releases/tag/v1.0.7"><img src="https://img.shields.io/badge/Version-v1.0.7-00e5ff?style=for-the-badge" alt="Version"></a>
   <img src="https://img.shields.io/badge/Platform-Android_5.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/Target_SDK-34-black?style=for-the-badge" alt="Target SDK">
   <img src="https://img.shields.io/badge/Architecture-ARM64--v8a-ff0055?style=for-the-badge" alt="Architecture">
@@ -61,13 +61,27 @@ Built with a deeply optimized native layer, hardware-accelerated haptics, and a 
 - **Encrypted DEX Architecture**: Payload bytecode is cryptographically encrypted (`assets/ondev/p`) using HKDF + AES-GCM and loaded dynamically into memory.
 - **Native Armor (`libsandip.so`)**: Binary-level protection against unauthorized tampering and reverse engineering.
 
+
+
+---
+
+## 📝 Changelog
+
+### [Version 1.0.7 (Latest)](https://github.com/sandip-mods/sandip-keygen/releases/tag/v1.0.7)
+- 🌐 **Instant Key Portal Cloud Sync**: Real-time cloud maintenance & OTA update check triggered on Key Portal tap in ~180ms with 0ms UI blocking.
+- ⚡ **Ultra-Fast 1.0s Maintenance Engine**: Sub-second polling response with multi-layer cache busting (`_rnd`, `_z`, `t` & `Cache-Control: no-cache, no-store`).
+- ⏱️ **Live Dynamic Duration & Message Streaming**: Changes to downtime or message on GitHub update dynamically on screen with smooth alpha pulse animations.
+- 🚀 **Lightning Auto-Dismissal**: When maintenance ends, the screen auto-dismisses in under **~580ms** with `HAPTIC_SUCCESS` physical vibration.
+- 🛡️ **Zero Battery Background Watchdog**: Intelligent lifecycle-bound watchdog that automatically breaks and kills threads when the app is closed.
+- 📦 **Target Version Bump**: Updated build target to `versionCode: 107` / `versionName: 1.0.7`.
+
 ---
 
 ## 👤 Developer & Credits
 
 - **Developer & Maintainer**: **SANDIP MOD'S**
 - **Key Generation Portal**: [https://aincradmods.com/getkey](https://aincradmods.com/getkey)
-- **Telegram**: [@sandipmods](https://t.me/whoes_mee)
+- **Telegram Channel**: [@sandipmods](https://t.me/whoes_mee)
 - **GitHub Repository**: [sandip-keygen-updates](https://github.com/sandipff2000-byte/sandip-keygen-updates)
 
 ---
