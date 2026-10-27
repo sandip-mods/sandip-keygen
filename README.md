@@ -11,19 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.6-00e5ff?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v1.0.7-00e5ff?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Android_5.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/Target_SDK-34-black?style=for-the-badge" alt="Target SDK">
   <img src="https://img.shields.io/badge/Architecture-ARM64--v8a-ff0055?style=for-the-badge" alt="Architecture">
-
 </p>
 
 ---
 
 ## 📖 Overview
 
- ⚡**SANDIP KEYGEN** — High-performance Android key retrieval tool for Aincrad Client with real-time cloud sync, AMOLED UI, and native security.
-, developed by [@AincradMods](https://t.me/AincradMods).
+⚡ **SANDIP KEYGEN** — High-performance Android key retrieval tool for Aincrad Client with real-time cloud sync, AMOLED UI, and native security, developed by [@AincradMods](https://t.me/AincradMods).
 
 * 🌐 **Key Generation Portal**: [https://aincradmods.com/getkey](https://aincradmods.com/getkey)
 * ⚙️ **Core Functionality**: Simplifies the process of retrieving authentication keys required to access the Aincrad Client.
@@ -39,12 +37,13 @@ Built with a deeply optimized native layer, hardware-accelerated haptics, and a 
 ## ✨ Key Features
 
 ### 🛠️ Real-Time Cloud Maintenance System
-- **Instant Auto-Dismiss**: When `maintenance: false` is updated on GitHub, the app auto-dismisses the maintenance page within **~3.5 seconds** without requiring an app restart.
-- **Dynamic Duration Streaming**: Changes to `maintenanceRetryAfter` (e.g. *30 minutes* ➔ *2 hours*) sync live on the screen without closing the dialog.
-- **Cache-Busting Polling**: Bypasses GitHub raw CDN caching using dynamic query hashes (`?t=timestamp`) and `no-cache` network headers.
+- **Instant Auto-Dismiss**: When `maintenance: false` is updated on GitHub, the app auto-dismisses the maintenance page within **~580 milliseconds** without requiring an app restart.
+- **Dynamic Duration Streaming**: Changes to `maintenanceRetryAfter` (e.g. *35 minute* ➔ *10 minutes*) sync live on the screen with smooth alpha pulse animations.
+- **Cache-Busting Polling**: Bypasses GitHub raw CDN caching using dynamic query hashes (`?t=timestamp&_z=nanos&_rnd=rand`) and strict `no-cache` network headers.
 - **Emergency Protection**: Full-screen AMOLED lock screen blocks all underlying functionality while maintenance is active.
 
 ### 🔄 In-App OTA Update System
+- **Instant Key Portal Sync**: Real-time cloud maintenance & OTA check triggered on Key Portal tap in ~180ms with 0ms UI blocking.
 - **Silent Background Check**: Automatically verifies version codes against remote JSON metadata.
 - **Seamless Downloader**: Integrated background download manager with real-time download percentage, speed, and file size tracking.
 - **Package Integrity Verification**: Pre-validates downloaded APKs using Android package parsers before launching installation to prevent corrupted package errors.
